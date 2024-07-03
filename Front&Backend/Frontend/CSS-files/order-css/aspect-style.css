@@ -1,0 +1,295 @@
+#button-id-223- {
+  margin: unset;
+  border-radius: 6px;
+  font-size: 15px;
+  line-height: 17px;
+  min-height: 40px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  width: 88px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 569px;
+  top: 404.5px;
+}
+
+#button-id-223-:active,
+#button-id-223-.active {
+  background-color: rgb(0, 0, 0) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+#button-id-223-:hover,
+#button-id-223-.hover {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+#container-id-216- {
+  padding: 64px;
+  background-color: rgba(0, 0, 0, 0);
+  gap: 0px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#container-id-216- > * {
+  max-width: 100%;
+  margin-right: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+#container-id-216- > :last-child,
+#container-id-216- > .last-child {
+  margin-right: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+#content-container {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+#content-container > * {
+  max-width: 100%;
+  margin-right: 0px !important;
+}
+
+#content-container > :last-child,
+#content-container > .last-child {
+  margin-right: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+#form-id-225- {
+  margin: unset;
+  min-height: auto;
+  background-color: rgb(183, 199, 200);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100.08333333333333%;
+}
+
+#input-id-218- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 489.5px;
+  top: 404.5px;
+}
+
+#input-id-218-:focus,
+#input-id-218-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-219- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 489.5px;
+  top: 404.5px;
+}
+
+#input-id-219-:focus,
+#input-id-219-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-220- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 489.5px;
+  top: 404.5px;
+}
+
+#input-id-220-:focus,
+#input-id-220-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-221- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 489.5px;
+  top: 404.5px;
+}
+
+#input-id-221-:focus,
+#input-id-221-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-222- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  left: 489.5px;
+  top: 404.5px;
+}
+
+#input-id-222-:focus,
+#input-id-222-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-229- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+#input-id-229-:focus,
+#input-id-229-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-230- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+#input-id-230-:focus,
+#input-id-230-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#input-id-231- {
+  margin: unset;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 6px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 16px;
+  min-height: 40px;
+  width: 320px;
+  font-family: inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+#input-id-231-:focus,
+#input-id-231-.focus {
+  border-color: rgb(1, 122, 255) !important;
+}
+
+#root-container {
+  background-position: center center;
+  background-color: rgb(183, 199, 200);
+}
+
+#text-id-217- {
+  margin: unset;
+  background-color: rgb(183, 199, 200);
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0px;
+  font-size: 18px;
+  left: 592px;
+  top: 314.5px;
+}
+
+@media (min-width: 1025px) {
+  #content-container {
+    display: flex;
+  }
+
+  #form-id-225- {
+    height: fit-content;
+    background-position: center center;
+    min-height: 488px;
+  }
+
+  #input-id-231- {
+    min-height: 43px;
+  }
+
+  #text-id-217- {
+    line-height: 20px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+  #content-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #content-container > * {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  #content-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #content-container > * {
+    max-width: 100%;
+  }
+}

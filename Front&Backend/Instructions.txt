@@ -1,0 +1,4 @@
+Instructions:
+1. All these files(except database_with_data) must be in the xampp htdocs folder
+2. There must be a database named "database_with_data" which has all the respective tables.
+3. In order to get the expected functionality we have to follow the sequence after opening Xampp control panel --> Click admin next to Apache module > modify the url and type "MAIN-index.php" after localhost/   
